@@ -1,0 +1,9 @@
+body{
+  background-color: rgba(212, 106, 106, 0.507);
+  margin: 0;
+  padding: 0;
+  background-image: url(/img/dovız2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
